@@ -8,6 +8,6 @@ El objeto response (res) atiende a cómo se formulará la respuesta por parte de
 
 ## Métodos del objeto response
 
-**.send(html)** envía al navegador el HTML argumnetado para ser renderizado
+**.send(html)** envía al navegador el código HTML argumnetado para ser renderizado
 
 **.sendFile(url)** envía al navegador el archivo de HTML de la ruta argumentada para ser randerizado
