@@ -2,7 +2,7 @@
 
 El objeto request (req) atiende a las condiciones en las que se ha realizado la petición
 
-El objeto response (res) atiende a cómo se formulará la respuesta por parte del pservidor
+El objeto response (res) atiende a cómo se formulará la respuesta por parte del servidor
 
 # Métodos del objeto response
 
